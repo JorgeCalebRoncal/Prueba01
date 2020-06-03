@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{ 
+	margin:0;
+	padding:0;
+	}
+#contenedor{
+	width:1000px;
+	height:800px;
+	background: #D8d8d8;
+	margin:0.5em auto;
+	padding:0.5em;	
+	}
+
+#header{
+	height:15%;
+	width:28%;
+	background: #FF0;
+	border-radius:1em;
+	margin:1em;
+	color:#F00;
+	
+}
+#nav{
+	height:10%;
+	background:#0F0;
+	border-radius:1em;
+	margin:1em;
+	}
+
+#contenido{
+	height:53%;
+	margin:1em;
+	padding:2em;
+}
+#footer{
+	height:15%;
+	background:#F00;
+	border-radius:1em;
+	margin:1em;
+	text-align: left
+}
+#section{
+	height:108%;
+	width:71%;
+	background:#a4a4a4a4;
+	border-radius:1em;
+	float:left;
+	margin:0.5em;
+	text-align:center;
+}
+
+#aside{
+	height:100%;
+	width:25%;
+	background:#a4a4a4a4;
+	border-radius:1em;
+	float:right;
+	margin:0.5em;
+}
+
+.articulo{
+	width:95%;
+	height:17%;
+	background:#424242;
+	margin:1.5em;
+	border-radius:1em;
+	text-align:left;
+	}
+.parrafo{
+	font-family: "Comic Sans MS", cursive;
+	text-align:center;
+	color: #000;
+	
+	
